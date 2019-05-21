@@ -1,590 +1,590 @@
-[
+ [
         {
-            "Country": "Afghan"
+            "country": "Afghan"
         },
         {
-            "Country": "Albanian"
+            "country": "Albanian"
         },
         {
-            "Country": "Algerian"
+            "country": "Algerian"
         },
         {
-            "Country": "American"
+            "country": "American"
         },
         {
-            "Country": "Andorran"
+            "country": "Andorran"
         },
         {
-            "Country": "Angolan"
+            "country": "Angolan"
         },
         {
-            "Country": "Antiguans"
+            "country": "Antiguans"
         },
         {
-            "Country": "Argentinean"
+            "country": "Argentinean"
         },
         {
-            "Country": "Armenian"
+            "country": "Armenian"
         },
         {
-            "Country": "Australian"
+            "country": "Australian"
         },
         {
-            "Country": "Austrian"
+            "country": "Austrian"
         },
         {
-            "Country": "Azerbaijani"
+            "country": "Azerbaijani"
         },
         {
-            "Country": "Bahamian"
+            "country": "Bahamian"
         },
         {
-            "Country": "Bahraini"
+            "country": "Bahraini"
         },
         {
-            "Country": "Bangladeshi"
+            "country": "Bangladeshi"
         },
         {
-            "Country": "Barbadian"
+            "country": "Barbadian"
         },
         {
-            "Country": "Barbudans"
+            "country": "Barbudans"
         },
         {
-            "Country": "Batswana"
+            "country": "Batswana"
         },
         {
-            "Country": "Belarusian"
+            "country": "Belarusian"
         },
         {
-            "Country": "Belgian"
+            "country": "Belgian"
         },
         {
-            "Country": "Belizean"
+            "country": "Belizean"
         },
         {
-            "Country": "Beninese"
+            "country": "Beninese"
         },
         {
-            "Country": "Bhutanese"
+            "country": "Bhutanese"
         },
         {
-            "Country": "Bolivian"
+            "country": "Bolivian"
         },
         {
-            "Country": "Bosnian"
+            "country": "Bosnian"
         },
         {
-            "Country": "Brazilian"
+            "country": "Brazilian"
         },
         {
-            "Country": "British"
+            "country": "British"
         },
         {
-            "Country": "Bruneian"
+            "country": "Bruneian"
         },
         {
-            "Country": "Bulgarian"
+            "country": "Bulgarian"
         },
         {
-            "Country": "Burkinabe"
+            "country": "Burkinabe"
         },
         {
-            "Country": "Burmese"
+            "country": "Burmese"
         },
         {
-            "Country": "Burundian"
+            "country": "Burundian"
         },
         {
-            "Country": "Cambodian"
+            "country": "Cambodian"
         },
         {
-            "Country": "Cameroonian"
+            "country": "Cameroonian"
         },
         {
-            "Country": "Canadian"
+            "country": "Canadian"
         },
         {
-            "Country": "Cape Verdean"
+            "country": "Cape Verdean"
         },
         {
-            "Country": "Central African"
+            "country": "Central African"
         },
         {
-            "Country": "Chadian"
+            "country": "Chadian"
         },
         {
-            "Country": "Chilean"
+            "country": "Chilean"
         },
         {
-            "Country": "Chinese"
+            "country": "Chinese"
         },
         {
-            "Country": "Colombian"
+            "country": "Colombian"
         },
         {
-            "Country": "Comoran"
+            "country": "Comoran"
         },
         {
-            "Country": "Congolese"
+            "country": "Congolese"
         },
         {
-            "Country": "Costa Rican"
+            "country": "Costa Rican"
         },
         {
-            "Country": "Croatian"
+            "country": "Croatian"
         },
         {
-            "Country": "Cuban"
+            "country": "Cuban"
         },
         {
-            "Country": "Cypriot"
+            "country": "Cypriot"
         },
         {
-            "Country": "Czech"
+            "country": "Czech"
         },
         {
-            "Country": "Danish"
+            "country": "Danish"
         },
         {
-            "Country": "Djibouti"
+            "country": "Djibouti"
         },
         {
-            "Country": "Dominican"
+            "country": "Dominican"
         },
         {
-            "Country": "Dutch"
+            "country": "Dutch"
         },
         {
-            "Country": "East Timorese"
+            "country": "East Timorese"
         },
         {
-            "Country": "Ecuadorean"
+            "country": "Ecuadorean"
         },
         {
-            "Country": "Egyptian"
+            "country": "Egyptian"
         },
         {
-            "Country": "Emirian"
+            "country": "Emirian"
         },
         {
-            "Country": "Equatorial Guinean"
+            "country": "Equatorial Guinean"
         },
         {
-            "Country": "Eritrean"
+            "country": "Eritrean"
         },
         {
-            "Country": "Estonian"
+            "country": "Estonian"
         },
         {
-            "Country": "Ethiopian"
+            "country": "Ethiopian"
         },
         {
-            "Country": "Fijian"
+            "country": "Fijian"
         },
         {
-            "Country": "Filipino"
+            "country": "Filipino"
         },
         {
-            "Country": "Finnish"
+            "country": "Finnish"
         },
         {
-            "Country": "French"
+            "country": "French"
         },
         {
-            "Country": "Gabonese"
+            "country": "Gabonese"
         },
         {
-            "Country": "Gambian"
+            "country": "Gambian"
         },
         {
-            "Country": "Georgian"
+            "country": "Georgian"
         },
         {
-            "Country": "German"
+            "country": "German"
         },
         {
-            "Country": "Ghanaian"
+            "country": "Ghanaian"
         },
         {
-            "Country": "Greek"
+            "country": "Greek"
         },
         {
-            "Country": "Grenadian"
+            "country": "Grenadian"
         },
         {
-            "Country": "Guatemalan"
+            "country": "Guatemalan"
         },
         {
-            "Country": "Guinea-Bissauan"
+            "country": "Guinea-Bissauan"
         },
         {
-            "Country": "Guinean"
+            "country": "Guinean"
         },
         {
-            "Country": "Guyanese"
+            "country": "Guyanese"
         },
         {
-            "Country": "Haitian"
+            "country": "Haitian"
         },
         {
-            "Country": "Herzegovinian"
+            "country": "Herzegovinian"
         },
         {
-            "Country": "Honduran"
+            "country": "Honduran"
         },
         {
-            "Country": "Hungarian"
+            "country": "Hungarian"
         },
         {
-            "Country": "Icelander"
+            "country": "Icelander"
         },
         {
-            "Country": "I-Kiribati"
+            "country": "I-Kiribati"
         },
         {
-            "Country": "Indian"
+            "country": "Indian"
         },
         {
-            "Country": "Indonesian"
+            "country": "Indonesian"
         },
         {
-            "Country": "Iranian"
+            "country": "Iranian"
         },
         {
-            "Country": "Iraqi"
+            "country": "Iraqi"
         },
         {
-            "Country": "Irish"
+            "country": "Irish"
         },
         {
-            "Country": "Israeli"
+            "country": "Israeli"
         },
         {
-            "Country": "Italian"
+            "country": "Italian"
         },
         {
-            "Country": "Ivorian"
+            "country": "Ivorian"
         },
         {
-            "Country": "Jamaican"
+            "country": "Jamaican"
         },
         {
-            "Country": "Japanese"
+            "country": "Japanese"
         },
         {
-            "Country": "Jordanian"
+            "country": "Jordanian"
         },
         {
-            "Country": "Kazakhstani"
+            "country": "Kazakhstani"
         },
         {
-            "Country": "Kenyan"
+            "country": "Kenyan"
         },
         {
-            "Country": "Kittian and Nevisian"
+            "country": "Kittian and Nevisian"
         },
         {
-            "Country": "Kuwaiti"
+            "country": "Kuwaiti"
         },
         {
-            "Country": "Kyrgyz"
+            "country": "Kyrgyz"
         },
         {
-            "Country": "Laotian"
+            "country": "Laotian"
         },
         {
-            "Country": "Latvian"
+            "country": "Latvian"
         },
         {
-            "Country": "Lebanese"
+            "country": "Lebanese"
         },
         {
-            "Country": "Liberian"
+            "country": "Liberian"
         },
         {
-            "Country": "Libyan"
+            "country": "Libyan"
         },
         {
-            "Country": "Liechtensteiner"
+            "country": "Liechtensteiner"
         },
         {
-            "Country": "Lithuanian"
+            "country": "Lithuanian"
         },
         {
-            "Country": "Luxembourger"
+            "country": "Luxembourger"
         },
         {
-            "Country": "Macedonian"
+            "country": "Macedonian"
         },
         {
-            "Country": "Malagasy"
+            "country": "Malagasy"
         },
         {
-            "Country": "Malawian"
+            "country": "Malawian"
         },
         {
-            "Country": "Malaysian"
+            "country": "Malaysian"
         },
         {
-            "Country": "Maldivan"
+            "country": "Maldivan"
         },
         {
-            "Country": "Malian"
+            "country": "Malian"
         },
         {
-            "Country": "Maltese"
+            "country": "Maltese"
         },
         {
-            "Country": "Marshallese"
+            "country": "Marshallese"
         },
         {
-            "Country": "Mauritanian"
+            "country": "Mauritanian"
         },
         {
-            "Country": "Mauritian"
+            "country": "Mauritian"
         },
         {
-            "Country": "Mexican"
+            "country": "Mexican"
         },
         {
-            "Country": "Micronesian"
+            "country": "Micronesian"
         },
         {
-            "Country": "Moldovan"
+            "country": "Moldovan"
         },
         {
-            "Country": "Monacan"
+            "country": "Monacan"
         },
         {
-            "Country": "Mongolian"
+            "country": "Mongolian"
         },
         {
-            "Country": "Moroccan"
+            "country": "Moroccan"
         },
         {
-            "Country": "Mosotho"
+            "country": "Mosotho"
         },
         {
-            "Country": "Motswana"
+            "country": "Motswana"
         },
         {
-            "Country": "Mozambican"
+            "country": "Mozambican"
         },
         {
-            "Country": "Namibian"
+            "country": "Namibian"
         },
         {
-            "Country": "Nauruan"
+            "country": "Nauruan"
         },
         {
-            "Country": "Nepalese"
+            "country": "Nepalese"
         },
         {
-            "Country": "Netherlander"
+            "country": "Netherlander"
         },
         {
-            "Country": "New Zealander"
+            "country": "New Zealander"
         },
         {
-            "Country": "Nicaraguan"
+            "country": "Nicaraguan"
         },
         {
-            "Country": "Nigerian"
+            "country": "Nigerian"
         },
         {
-            "Country": "Nigerien"
+            "country": "Nigerien"
         },
         {
-            "Country": "Ni-Vanuatu"
+            "country": "Ni-Vanuatu"
         },
         {
-            "Country": "Northern Irish"
+            "country": "Northern Irish"
         },
         {
-            "Country": "North Korean"
+            "country": "North Korean"
         },
         {
-            "Country": "Norwegian"
+            "country": "Norwegian"
         },
         {
-            "Country": "Omani"
+            "country": "Omani"
         },
         {
-            "Country": "Pakistani"
+            "country": "Pakistani"
         },
         {
-            "Country": "Palauan"
+            "country": "Palauan"
         },
         {
-            "Country": "Panamanian"
+            "country": "Panamanian"
         },
         {
-            "Country": "Papua New Guinean"
+            "country": "Papua New Guinean"
         },
         {
-            "Country": "Paraguayan"
+            "country": "Paraguayan"
         },
         {
-            "Country": "Peruvian"
+            "country": "Peruvian"
         },
         {
-            "Country": "Polish"
+            "country": "Polish"
         },
         {
-            "Country": "Portuguese"
+            "country": "Portuguese"
         },
         {
-            "Country": "Qatari"
+            "country": "Qatari"
         },
         {
-            "Country": "Romanian"
+            "country": "Romanian"
         },
         {
-            "Country": "Russian"
+            "country": "Russian"
         },
         {
-            "Country": "Rwandan"
+            "country": "Rwandan"
         },
         {
-            "Country": "Saint Lucian"
+            "country": "Saint Lucian"
         },
         {
-            "Country": "Salvadoran"
+            "country": "Salvadoran"
         },
         {
-            "Country": "Samoan"
+            "country": "Samoan"
         },
         {
-            "Country": "San Marinese"
+            "country": "San Marinese"
         },
         {
-            "Country": "Sao Tomean"
+            "country": "Sao Tomean"
         },
         {
-            "Country": "Saudi"
+            "country": "Saudi"
         },
         {
-            "Country": "Scottish"
+            "country": "Scottish"
         },
         {
-            "Country": "Senegalese"
+            "country": "Senegalese"
         },
         {
-            "Country": "Serbian"
+            "country": "Serbian"
         },
         {
-            "Country": "Seychellois"
+            "country": "Seychellois"
         },
         {
-            "Country": "Sierra Leonean"
+            "country": "Sierra Leonean"
         },
         {
-            "Country": "Singaporean"
+            "country": "Singaporean"
         },
         {
-            "Country": "Slovakian"
+            "country": "Slovakian"
         },
         {
-            "Country": "Slovenian"
+            "country": "Slovenian"
         },
         {
-            "Country": "Solomon Islander"
+            "country": "Solomon Islander"
         },
         {
-            "Country": "Somali"
+            "country": "Somali"
         },
         {
-            "Country": "South African"
+            "country": "South African"
         },
         {
-            "Country": "South Korean"
+            "country": "South Korean"
         },
         {
-            "Country": "South Sudanese"
+            "country": "South Sudanese"
         },
         {
-            "Country": "Spanish"
+            "country": "Spanish"
         },
         {
-            "Country": "Sri Lankan"
+            "country": "Sri Lankan"
         },
         {
-            "Country": "Sudanese"
+            "country": "Sudanese"
         },
         {
-            "Country": "Surinamer"
+            "country": "Surinamer"
         },
         {
-            "Country": "Swazi"
+            "country": "Swazi"
         },
         {
-            "Country": "Swedish"
+            "country": "Swedish"
         },
         {
-            "Country": "Swiss"
+            "country": "Swiss"
         },
         {
-            "Country": "Syrian"
+            "country": "Syrian"
         },
         {
-            "Country": "Taiwanese"
+            "country": "Taiwanese"
         },
         {
-            "Country": "Tajik"
+            "country": "Tajik"
         },
         {
-            "Country": "Tanzanian"
+            "country": "Tanzanian"
         },
         {
-            "Country": "Thai"
+            "country": "Thai"
         },
         {
-            "Country": "Togolese"
+            "country": "Togolese"
         },
         {
-            "Country": "Tongan"
+            "country": "Tongan"
         },
         {
-            "Country": "Trinidadian or Tobagonian"
+            "country": "Trinidadian or Tobagonian"
         },
         {
-            "Country": "Tunisian"
+            "country": "Tunisian"
         },
         {
-            "Country": "Turkish"
+            "country": "Turkish"
         },
         {
-            "Country": "Tuvaluan"
+            "country": "Tuvaluan"
         },
         {
-            "Country": "Ugandan"
+            "country": "Ugandan"
         },
         {
-            "Country": "Ukrainian"
+            "country": "Ukrainian"
         },
         {
-            "Country": "Uruguayan"
+            "country": "Uruguayan"
         },
         {
-            "Country": "Uzbekistani"
+            "country": "Uzbekistani"
         },
         {
-            "Country": "Venezuelan"
+            "country": "Venezuelan"
         },
         {
-            "Country": "Vietnamese"
+            "country": "Vietnamese"
         },
         {
-            "Country": "Welsh"
+            "country": "Welsh"
         },
         {
-            "Country": "Yemenite"
+            "country": "Yemenite"
         },
         {
-            "Country": "Zambian"
+            "country": "Zambian"
         },
         {
-            "Country": "Zimbabwean"
+            "country": "Zimbabwean"
         }
     ]
