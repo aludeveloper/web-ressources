@@ -1,590 +1,590 @@
- [
-        {
-            "country": "Afghan"
-        },
-        {
-            "country": "Albanian"
-        },
-        {
-            "country": "Algerian"
-        },
-        {
-            "country": "American"
-        },
-        {
-            "country": "Andorran"
-        },
-        {
-            "country": "Angolan"
-        },
-        {
-            "country": "Antiguans"
-        },
-        {
-            "country": "Argentinean"
-        },
-        {
-            "country": "Armenian"
-        },
-        {
-            "country": "Australian"
-        },
-        {
-            "country": "Austrian"
-        },
-        {
-            "country": "Azerbaijani"
-        },
-        {
-            "country": "Bahamian"
-        },
-        {
-            "country": "Bahraini"
-        },
-        {
-            "country": "Bangladeshi"
-        },
-        {
-            "country": "Barbadian"
-        },
-        {
-            "country": "Barbudans"
-        },
-        {
-            "country": "Batswana"
-        },
-        {
-            "country": "Belarusian"
-        },
-        {
-            "country": "Belgian"
-        },
-        {
-            "country": "Belizean"
-        },
-        {
-            "country": "Beninese"
-        },
-        {
-            "country": "Bhutanese"
-        },
-        {
-            "country": "Bolivian"
-        },
-        {
-            "country": "Bosnian"
-        },
-        {
-            "country": "Brazilian"
-        },
-        {
-            "country": "British"
-        },
-        {
-            "country": "Bruneian"
-        },
-        {
-            "country": "Bulgarian"
-        },
-        {
-            "country": "Burkinabe"
-        },
-        {
-            "country": "Burmese"
-        },
-        {
-            "country": "Burundian"
-        },
-        {
-            "country": "Cambodian"
-        },
-        {
-            "country": "Cameroonian"
-        },
-        {
-            "country": "Canadian"
-        },
-        {
-            "country": "Cape Verdean"
-        },
-        {
-            "country": "Central African"
-        },
-        {
-            "country": "Chadian"
-        },
-        {
-            "country": "Chilean"
-        },
-        {
-            "country": "Chinese"
-        },
-        {
-            "country": "Colombian"
-        },
-        {
-            "country": "Comoran"
-        },
-        {
-            "country": "Congolese"
-        },
-        {
-            "country": "Costa Rican"
-        },
-        {
-            "country": "Croatian"
-        },
-        {
-            "country": "Cuban"
-        },
-        {
-            "country": "Cypriot"
-        },
-        {
-            "country": "Czech"
-        },
-        {
-            "country": "Danish"
-        },
-        {
-            "country": "Djibouti"
-        },
-        {
-            "country": "Dominican"
-        },
-        {
-            "country": "Dutch"
-        },
-        {
-            "country": "East Timorese"
-        },
-        {
-            "country": "Ecuadorean"
-        },
-        {
-            "country": "Egyptian"
-        },
-        {
-            "country": "Emirian"
-        },
-        {
-            "country": "Equatorial Guinean"
-        },
-        {
-            "country": "Eritrean"
-        },
-        {
-            "country": "Estonian"
-        },
-        {
-            "country": "Ethiopian"
-        },
-        {
-            "country": "Fijian"
-        },
-        {
-            "country": "Filipino"
-        },
-        {
-            "country": "Finnish"
-        },
-        {
-            "country": "French"
-        },
-        {
-            "country": "Gabonese"
-        },
-        {
-            "country": "Gambian"
-        },
-        {
-            "country": "Georgian"
-        },
-        {
-            "country": "German"
-        },
-        {
-            "country": "Ghanaian"
-        },
-        {
-            "country": "Greek"
-        },
-        {
-            "country": "Grenadian"
-        },
-        {
-            "country": "Guatemalan"
-        },
-        {
-            "country": "Guinea-Bissauan"
-        },
-        {
-            "country": "Guinean"
-        },
-        {
-            "country": "Guyanese"
-        },
-        {
-            "country": "Haitian"
-        },
-        {
-            "country": "Herzegovinian"
-        },
-        {
-            "country": "Honduran"
-        },
-        {
-            "country": "Hungarian"
-        },
-        {
-            "country": "Icelander"
-        },
-        {
-            "country": "I-Kiribati"
-        },
-        {
-            "country": "Indian"
-        },
-        {
-            "country": "Indonesian"
-        },
-        {
-            "country": "Iranian"
-        },
-        {
-            "country": "Iraqi"
-        },
-        {
-            "country": "Irish"
-        },
-        {
-            "country": "Israeli"
-        },
-        {
-            "country": "Italian"
-        },
-        {
-            "country": "Ivorian"
-        },
-        {
-            "country": "Jamaican"
-        },
-        {
-            "country": "Japanese"
-        },
-        {
-            "country": "Jordanian"
-        },
-        {
-            "country": "Kazakhstani"
-        },
-        {
-            "country": "Kenyan"
-        },
-        {
-            "country": "Kittian and Nevisian"
-        },
-        {
-            "country": "Kuwaiti"
-        },
-        {
-            "country": "Kyrgyz"
-        },
-        {
-            "country": "Laotian"
-        },
-        {
-            "country": "Latvian"
-        },
-        {
-            "country": "Lebanese"
-        },
-        {
-            "country": "Liberian"
-        },
-        {
-            "country": "Libyan"
-        },
-        {
-            "country": "Liechtensteiner"
-        },
-        {
-            "country": "Lithuanian"
-        },
-        {
-            "country": "Luxembourger"
-        },
-        {
-            "country": "Macedonian"
-        },
-        {
-            "country": "Malagasy"
-        },
-        {
-            "country": "Malawian"
-        },
-        {
-            "country": "Malaysian"
-        },
-        {
-            "country": "Maldivan"
-        },
-        {
-            "country": "Malian"
-        },
-        {
-            "country": "Maltese"
-        },
-        {
-            "country": "Marshallese"
-        },
-        {
-            "country": "Mauritanian"
-        },
-        {
-            "country": "Mauritian"
-        },
-        {
-            "country": "Mexican"
-        },
-        {
-            "country": "Micronesian"
-        },
-        {
-            "country": "Moldovan"
-        },
-        {
-            "country": "Monacan"
-        },
-        {
-            "country": "Mongolian"
-        },
-        {
-            "country": "Moroccan"
-        },
-        {
-            "country": "Mosotho"
-        },
-        {
-            "country": "Motswana"
-        },
-        {
-            "country": "Mozambican"
-        },
-        {
-            "country": "Namibian"
-        },
-        {
-            "country": "Nauruan"
-        },
-        {
-            "country": "Nepalese"
-        },
-        {
-            "country": "Netherlander"
-        },
-        {
-            "country": "New Zealander"
-        },
-        {
-            "country": "Nicaraguan"
-        },
-        {
-            "country": "Nigerian"
-        },
-        {
-            "country": "Nigerien"
-        },
-        {
-            "country": "Ni-Vanuatu"
-        },
-        {
-            "country": "Northern Irish"
-        },
-        {
-            "country": "North Korean"
-        },
-        {
-            "country": "Norwegian"
-        },
-        {
-            "country": "Omani"
-        },
-        {
-            "country": "Pakistani"
-        },
-        {
-            "country": "Palauan"
-        },
-        {
-            "country": "Panamanian"
-        },
-        {
-            "country": "Papua New Guinean"
-        },
-        {
-            "country": "Paraguayan"
-        },
-        {
-            "country": "Peruvian"
-        },
-        {
-            "country": "Polish"
-        },
-        {
-            "country": "Portuguese"
-        },
-        {
-            "country": "Qatari"
-        },
-        {
-            "country": "Romanian"
-        },
-        {
-            "country": "Russian"
-        },
-        {
-            "country": "Rwandan"
-        },
-        {
-            "country": "Saint Lucian"
-        },
-        {
-            "country": "Salvadoran"
-        },
-        {
-            "country": "Samoan"
-        },
-        {
-            "country": "San Marinese"
-        },
-        {
-            "country": "Sao Tomean"
-        },
-        {
-            "country": "Saudi"
-        },
-        {
-            "country": "Scottish"
-        },
-        {
-            "country": "Senegalese"
-        },
-        {
-            "country": "Serbian"
-        },
-        {
-            "country": "Seychellois"
-        },
-        {
-            "country": "Sierra Leonean"
-        },
-        {
-            "country": "Singaporean"
-        },
-        {
-            "country": "Slovakian"
-        },
-        {
-            "country": "Slovenian"
-        },
-        {
-            "country": "Solomon Islander"
-        },
-        {
-            "country": "Somali"
-        },
-        {
-            "country": "South African"
-        },
-        {
-            "country": "South Korean"
-        },
-        {
-            "country": "South Sudanese"
-        },
-        {
-            "country": "Spanish"
-        },
-        {
-            "country": "Sri Lankan"
-        },
-        {
-            "country": "Sudanese"
-        },
-        {
-            "country": "Surinamer"
-        },
-        {
-            "country": "Swazi"
-        },
-        {
-            "country": "Swedish"
-        },
-        {
-            "country": "Swiss"
-        },
-        {
-            "country": "Syrian"
-        },
-        {
-            "country": "Taiwanese"
-        },
-        {
-            "country": "Tajik"
-        },
-        {
-            "country": "Tanzanian"
-        },
-        {
-            "country": "Thai"
-        },
-        {
-            "country": "Togolese"
-        },
-        {
-            "country": "Tongan"
-        },
-        {
-            "country": "Trinidadian or Tobagonian"
-        },
-        {
-            "country": "Tunisian"
-        },
-        {
-            "country": "Turkish"
-        },
-        {
-            "country": "Tuvaluan"
-        },
-        {
-            "country": "Ugandan"
-        },
-        {
-            "country": "Ukrainian"
-        },
-        {
-            "country": "Uruguayan"
-        },
-        {
-            "country": "Uzbekistani"
-        },
-        {
-            "country": "Venezuelan"
-        },
-        {
-            "country": "Vietnamese"
-        },
-        {
-            "country": "Welsh"
-        },
-        {
-            "country": "Yemenite"
-        },
-        {
-            "country": "Zambian"
-        },
-        {
-            "country": "Zimbabwean"
-        }
-    ]
+[
+   {
+      "country":"Afghan"
+   },
+   {
+      "country":"Albanian"
+   },
+   {
+      "country":"Algerian"
+   },
+   {
+      "country":"American"
+   },
+   {
+      "country":"Andorran"
+   },
+   {
+      "country":"Angolan"
+   },
+   {
+      "country":"Antiguans"
+   },
+   {
+      "country":"Argentinean"
+   },
+   {
+      "country":"Armenian"
+   },
+   {
+      "country":"Australian"
+   },
+   {
+      "country":"Austrian"
+   },
+   {
+      "country":"Azerbaijani"
+   },
+   {
+      "country":"Bahamian"
+   },
+   {
+      "country":"Bahraini"
+   },
+   {
+      "country":"Bangladeshi"
+   },
+   {
+      "country":"Barbadian"
+   },
+   {
+      "country":"Barbudans"
+   },
+   {
+      "country":"Batswana"
+   },
+   {
+      "country":"Belarusian"
+   },
+   {
+      "country":"Belgian"
+   },
+   {
+      "country":"Belizean"
+   },
+   {
+      "country":"Beninese"
+   },
+   {
+      "country":"Bhutanese"
+   },
+   {
+      "country":"Bolivian"
+   },
+   {
+      "country":"Bosnian"
+   },
+   {
+      "country":"Brazilian"
+   },
+   {
+      "country":"British"
+   },
+   {
+      "country":"Bruneian"
+   },
+   {
+      "country":"Bulgarian"
+   },
+   {
+      "country":"Burkinabe"
+   },
+   {
+      "country":"Burmese"
+   },
+   {
+      "country":"Burundian"
+   },
+   {
+      "country":"Cambodian"
+   },
+   {
+      "country":"Cameroonian"
+   },
+   {
+      "country":"Canadian"
+   },
+   {
+      "country":"Cape Verdean"
+   },
+   {
+      "country":"Central African"
+   },
+   {
+      "country":"Chadian"
+   },
+   {
+      "country":"Chilean"
+   },
+   {
+      "country":"Chinese"
+   },
+   {
+      "country":"Colombian"
+   },
+   {
+      "country":"Comoran"
+   },
+   {
+      "country":"Congolese"
+   },
+   {
+      "country":"Costa Rican"
+   },
+   {
+      "country":"Croatian"
+   },
+   {
+      "country":"Cuban"
+   },
+   {
+      "country":"Cypriot"
+   },
+   {
+      "country":"Czech"
+   },
+   {
+      "country":"Danish"
+   },
+   {
+      "country":"Djibouti"
+   },
+   {
+      "country":"Dominican"
+   },
+   {
+      "country":"Dutch"
+   },
+   {
+      "country":"East Timorese"
+   },
+   {
+      "country":"Ecuadorean"
+   },
+   {
+      "country":"Egyptian"
+   },
+   {
+      "country":"Emirian"
+   },
+   {
+      "country":"Equatorial Guinean"
+   },
+   {
+      "country":"Eritrean"
+   },
+   {
+      "country":"Estonian"
+   },
+   {
+      "country":"Ethiopian"
+   },
+   {
+      "country":"Fijian"
+   },
+   {
+      "country":"Filipino"
+   },
+   {
+      "country":"Finnish"
+   },
+   {
+      "country":"French"
+   },
+   {
+      "country":"Gabonese"
+   },
+   {
+      "country":"Gambian"
+   },
+   {
+      "country":"Georgian"
+   },
+   {
+      "country":"German"
+   },
+   {
+      "country":"Ghanaian"
+   },
+   {
+      "country":"Greek"
+   },
+   {
+      "country":"Grenadian"
+   },
+   {
+      "country":"Guatemalan"
+   },
+   {
+      "country":"Guinea-Bissauan"
+   },
+   {
+      "country":"Guinean"
+   },
+   {
+      "country":"Guyanese"
+   },
+   {
+      "country":"Haitian"
+   },
+   {
+      "country":"Herzegovinian"
+   },
+   {
+      "country":"Honduran"
+   },
+   {
+      "country":"Hungarian"
+   },
+   {
+      "country":"Icelander"
+   },
+   {
+      "country":"I-Kiribati"
+   },
+   {
+      "country":"Indian"
+   },
+   {
+      "country":"Indonesian"
+   },
+   {
+      "country":"Iranian"
+   },
+   {
+      "country":"Iraqi"
+   },
+   {
+      "country":"Irish"
+   },
+   {
+      "country":"Israeli"
+   },
+   {
+      "country":"Italian"
+   },
+   {
+      "country":"Ivorian"
+   },
+   {
+      "country":"Jamaican"
+   },
+   {
+      "country":"Japanese"
+   },
+   {
+      "country":"Jordanian"
+   },
+   {
+      "country":"Kazakhstani"
+   },
+   {
+      "country":"Kenyan"
+   },
+   {
+      "country":"Kittian and Nevisian"
+   },
+   {
+      "country":"Kuwaiti"
+   },
+   {
+      "country":"Kyrgyz"
+   },
+   {
+      "country":"Laotian"
+   },
+   {
+      "country":"Latvian"
+   },
+   {
+      "country":"Lebanese"
+   },
+   {
+      "country":"Liberian"
+   },
+   {
+      "country":"Libyan"
+   },
+   {
+      "country":"Liechtensteiner"
+   },
+   {
+      "country":"Lithuanian"
+   },
+   {
+      "country":"Luxembourger"
+   },
+   {
+      "country":"Macedonian"
+   },
+   {
+      "country":"Malagasy"
+   },
+   {
+      "country":"Malawian"
+   },
+   {
+      "country":"Malaysian"
+   },
+   {
+      "country":"Maldivan"
+   },
+   {
+      "country":"Malian"
+   },
+   {
+      "country":"Maltese"
+   },
+   {
+      "country":"Marshallese"
+   },
+   {
+      "country":"Mauritanian"
+   },
+   {
+      "country":"Mauritian"
+   },
+   {
+      "country":"Mexican"
+   },
+   {
+      "country":"Micronesian"
+   },
+   {
+      "country":"Moldovan"
+   },
+   {
+      "country":"Monacan"
+   },
+   {
+      "country":"Mongolian"
+   },
+   {
+      "country":"Moroccan"
+   },
+   {
+      "country":"Mosotho"
+   },
+   {
+      "country":"Motswana"
+   },
+   {
+      "country":"Mozambican"
+   },
+   {
+      "country":"Namibian"
+   },
+   {
+      "country":"Nauruan"
+   },
+   {
+      "country":"Nepalese"
+   },
+   {
+      "country":"Netherlander"
+   },
+   {
+      "country":"New Zealander"
+   },
+   {
+      "country":"Nicaraguan"
+   },
+   {
+      "country":"Nigerian"
+   },
+   {
+      "country":"Nigerien"
+   },
+   {
+      "country":"Ni-Vanuatu"
+   },
+   {
+      "country":"Northern Irish"
+   },
+   {
+      "country":"North Korean"
+   },
+   {
+      "country":"Norwegian"
+   },
+   {
+      "country":"Omani"
+   },
+   {
+      "country":"Pakistani"
+   },
+   {
+      "country":"Palauan"
+   },
+   {
+      "country":"Panamanian"
+   },
+   {
+      "country":"Papua New Guinean"
+   },
+   {
+      "country":"Paraguayan"
+   },
+   {
+      "country":"Peruvian"
+   },
+   {
+      "country":"Polish"
+   },
+   {
+      "country":"Portuguese"
+   },
+   {
+      "country":"Qatari"
+   },
+   {
+      "country":"Romanian"
+   },
+   {
+      "country":"Russian"
+   },
+   {
+      "country":"Rwandan"
+   },
+   {
+      "country":"Saint Lucian"
+   },
+   {
+      "country":"Salvadoran"
+   },
+   {
+      "country":"Samoan"
+   },
+   {
+      "country":"San Marinese"
+   },
+   {
+      "country":"Sao Tomean"
+   },
+   {
+      "country":"Saudi"
+   },
+   {
+      "country":"Scottish"
+   },
+   {
+      "country":"Senegalese"
+   },
+   {
+      "country":"Serbian"
+   },
+   {
+      "country":"Seychellois"
+   },
+   {
+      "country":"Sierra Leonean"
+   },
+   {
+      "country":"Singaporean"
+   },
+   {
+      "country":"Slovakian"
+   },
+   {
+      "country":"Slovenian"
+   },
+   {
+      "country":"Solomon Islander"
+   },
+   {
+      "country":"Somali"
+   },
+   {
+      "country":"South African"
+   },
+   {
+      "country":"South Korean"
+   },
+   {
+      "country":"South Sudanese"
+   },
+   {
+      "country":"Spanish"
+   },
+   {
+      "country":"Sri Lankan"
+   },
+   {
+      "country":"Sudanese"
+   },
+   {
+      "country":"Surinamer"
+   },
+   {
+      "country":"Swazi"
+   },
+   {
+      "country":"Swedish"
+   },
+   {
+      "country":"Swiss"
+   },
+   {
+      "country":"Syrian"
+   },
+   {
+      "country":"Taiwanese"
+   },
+   {
+      "country":"Tajik"
+   },
+   {
+      "country":"Tanzanian"
+   },
+   {
+      "country":"Thai"
+   },
+   {
+      "country":"Togolese"
+   },
+   {
+      "country":"Tongan"
+   },
+   {
+      "country":"Trinidadian or Tobagonian"
+   },
+   {
+      "country":"Tunisian"
+   },
+   {
+      "country":"Turkish"
+   },
+   {
+      "country":"Tuvaluan"
+   },
+   {
+      "country":"Ugandan"
+   },
+   {
+      "country":"Ukrainian"
+   },
+   {
+      "country":"Uruguayan"
+   },
+   {
+      "country":"Uzbekistani"
+   },
+   {
+      "country":"Venezuelan"
+   },
+   {
+      "country":"Vietnamese"
+   },
+   {
+      "country":"Welsh"
+   },
+   {
+      "country":"Yemenite"
+   },
+   {
+      "country":"Zambian"
+   },
+   {
+      "country":"Zimbabwean"
+   }
+]
